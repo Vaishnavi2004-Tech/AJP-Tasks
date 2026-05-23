@@ -14,7 +14,7 @@ Generate a PDF file using Java and send it via email.
 - Sends PDF attachment via email
 
 ## Recipient Email
-shivame2011@gmail.com
+vaishnavisup@gamil.com
 
 ## Output
 PDF file generated and sent through email.
