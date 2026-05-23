@@ -68,7 +68,7 @@ public class SendPDF {
                 new MimeBodyPart();
 
             textPart.setText(
-                "Hello Sir, PDF Attached.");
+                "Hello, PDF Attached.");
 
             // PDF Attachment Part
             MimeBodyPart pdfPart =
